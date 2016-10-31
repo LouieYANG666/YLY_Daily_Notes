@@ -1,2 +1,2 @@
 # YLY_Daily_Notes
-keep learning 
+# 记录一些有趣宏定义
