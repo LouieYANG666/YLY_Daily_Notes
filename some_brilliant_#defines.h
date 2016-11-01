@@ -9,3 +9,5 @@
 
 // 3. 计算数组a的长度
 #define LENGTH(a)      (sizeof(a)/sizeof(a[0]))
+
+// 4. useful log defines
